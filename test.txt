@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 another text string from local PC
+some text string
+>>>>>>> bd06cbdbba6a8667b8e6eb6d1e9910cc5957c553
